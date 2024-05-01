@@ -1,4 +1,3 @@
-![image](https://github.com/ramzablv/ramzablv/assets/160617841/4cc93dae-4459-481c-89d2-ada2ed3e0c81)
 ## Meus Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8ec07c?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-queiroz-dg/)
